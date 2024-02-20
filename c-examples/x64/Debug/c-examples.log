@@ -1,3 +1,3 @@
-﻿  pch.cpp
-  c-examples.cpp
-  c-examples.vcxproj -> C:\Users\Ömer Faruk Çerçil\Desktop\c-examples\x64\Debug\c-examples.lib
+﻿  c-examples.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(741,5): error MSB6006: "CL.exe" exited with code 2.
+C:\Users\Ömer Faruk Çerçil\Desktop\c-examples\c-examples\c-examples.cpp(1,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
