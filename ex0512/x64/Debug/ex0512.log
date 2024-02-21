@@ -1,0 +1,3 @@
+﻿  ex0512.cpp
+C:\Users\Ömer Faruk Çerçil\Desktop\c-examples\ex0512\ex0512.cpp(5,9): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 3 has type 'int'
+  ex0512.vcxproj -> C:\Users\Ömer Faruk Çerçil\Desktop\c-examples\x64\Debug\ex0512.exe
